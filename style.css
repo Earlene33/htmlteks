@@ -1,0 +1,35 @@
+h1{
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.color1{
+    color: rgb(134, 44, 230);
+    font-size: 15px;
+}
+.color2{
+    color: rgb(107, 61, 140);
+    font-size: 17px;
+
+}
+.color3{
+    color:rgb(191, 143, 225);
+    font-size: 15px;
+}
+.color4{
+    color:rgb(209, 42, 139);
+    font-size: 15px;
+}
+.color5{
+    color:rgb(185, 85, 122);
+    font-size: 15px;
+}
+.color6{
+    color:rgb(231, 186, 214);
+    font-size: 15px;
+
+}
+p{
+    color:rgb(106, 97, 98);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
